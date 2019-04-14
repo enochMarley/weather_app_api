@@ -1,0 +1,7 @@
+{
+	"name": "weather_api",
+	"description": "A Simple API For Weather App",
+	"repository":"https://github.com/enochMarley/weather_app_api.git",
+	"keywords":["weather", "weather api", "weather app"],
+	"image":"heroki/nodejs"
+}
